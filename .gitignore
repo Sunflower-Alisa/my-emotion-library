@@ -10,3 +10,5 @@ Thumbs.db
 backend/*/bin/
 backend/*/obj/
 backend/.vs/
+backend/*/*.db
+backend/*/heartnote.db
