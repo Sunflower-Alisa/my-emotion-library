@@ -1,0 +1,25 @@
+{
+  "name": "心迹手账",
+    "appid": "wx7819d88a7603798e",
+  "description": "记录情绪，疗愈心灵",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "app-plus": {},
+  "quickapp": {},
+  "mp-weixin": {
+  "appid": "wx7819d88a7603798e",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "postcss": true,
+      "minified": true
+    },
+    "usingComponents": true,
+    "permission": {}
+  },
+  "uniStatistics": {
+    "enable": false
+  },
+  "vueVersion": "3"
+}

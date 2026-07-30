@@ -1,0 +1,6 @@
+@HeartNote.Api_HostAddress = http://localhost:5038
+
+GET {{HeartNote.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
