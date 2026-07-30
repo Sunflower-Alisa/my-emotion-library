@@ -6,3 +6,7 @@ appsettings.Development.json
 .DS_Store
 Thumbs.db
 *.log
+.vs/
+backend/*/bin/
+backend/*/obj/
+backend/.vs/
